@@ -24,12 +24,13 @@ Lista de Tarefas
                   <tr>
                       <th scope="row">{{ todo.pk }}</th>
                       <td>{{ todo.title }}</td>
-                      <td>{{ todo.created_at}}</td>
-                      <td>{{ todo.deadline }}</td>
-                      <td>{{todo.fineshed_at | default:"-"}}</td>
+                      <td>{{ todo.created_at | date:"d/m/Y"}}</td>
+                      <td>{{ todo.deadline | date:"d/m/Y" }}</td>
+                      <td>{{ todo.finished_at | date:"d/m/Y" | default:"-" }}</td>
+
                       <td>
-                        <a href="#" class="btn btn-primary btn-sm">Concluir</a>
-                        <a href="{% url 'todo_update' pk=todo.pk %}" class="btn btn-secondary btn-sm">Editar</a>
+                        <a href="{% url 'todo_complete' pk=todo.pk %}" class="btn btn-primary btn-sm {% if todo.finished_at %}disabled{% endif %}" >Concluir</a>
+                        <a href="{% url 'todo_update' pk=todo.pk %}" class="btn btn-secondary btn-sm {% if todo.finished_at %}disabled{% endif %}">Editar</a>
                         <a href="{% url 'todo_delete' pk=todo.pk %}" class="btn btn-danger btn-sm">Excluir</a>
                       </td>
                     </tr>
