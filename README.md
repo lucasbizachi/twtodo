@@ -14,4 +14,4 @@ Este é um projeto incrível que permite aos usuários criar, visualizar, atuali
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/lucasbizachi/twtodo)
 
 ## Considerações Finais
-Obrigado por usar [Nome do Projeto]! Se precisar de ajuda ou tiver alguma sugestão, sinta-se à vontade para entrar em contato.
+Com funcionalidades que incluem a criação, visualização, atualização e exclusão de tarefas, este projeto representa não apenas uma realização técnica, mas também aprender e aprimorar o conhecimento sobre a estrutura básica do framework Django.
