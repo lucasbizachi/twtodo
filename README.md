@@ -17,16 +17,15 @@ Este é um projeto incrível que permite aos usuários criar, visualizar, atuali
 ![editar](https://github.com/lucasbizachi/twtodo/assets/101759223/c5d0a357-7131-4ceb-b3ce-920716790704)
 ![nova](https://github.com/lucasbizachi/twtodo/assets/101759223/5d9a5565-26f2-4db5-83b2-b730e18e04f0)
 
-## Instalação
-1. Clone o repositório: `git clone https://github.com/seu-usuario/seu-projeto.git`
-2. Instale as dependências: `pip install -r requirements.txt`
+![GitHub language count](https://img.shields.io/github/languages/count/lucasbizachi/twtodo)
+![GitHub top language](https://img.shields.io/github/languages/top/lucasbizachi/twtodo)
 
-## Uso
-1. Execute o aplicativo: `python main.py`
-2. Acesse [http://localhost:3000/](http://localhost:3000/) no navegador.
 
 ## Licença
 Este projeto está sob a licença [Nome da Licença]. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+
+
 
 ## Considerações Finais
 Obrigado por usar [Nome do Projeto]! Se precisar de ajuda ou tiver alguma sugestão, sinta-se à vontade para entrar em contato.
