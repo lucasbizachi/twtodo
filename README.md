@@ -19,6 +19,8 @@ Este é um projeto incrível que permite aos usuários criar, visualizar, atuali
 
 ![GitHub language count](https://img.shields.io/github/languages/count/lucasbizachi/twtodo)
 ![GitHub top language](https://img.shields.io/github/languages/top/lucasbizachi/twtodo)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/lucasbizachi/twtodo)
+
 
 
 ## Licença
