@@ -13,7 +13,9 @@ Este é um projeto incrível que permite aos usuários criar, visualizar, atuali
 </ul>
 
 ## Telas
-
+![lista](https://github.com/lucasbizachi/twtodo/assets/101759223/06bbfe25-87d5-4ffa-a0c6-fd460fbf42d6)
+![editar](https://github.com/lucasbizachi/twtodo/assets/101759223/c5d0a357-7131-4ceb-b3ce-920716790704)
+![nova](https://github.com/lucasbizachi/twtodo/assets/101759223/5d9a5565-26f2-4db5-83b2-b730e18e04f0)
 
 ## Instalação
 1. Clone o repositório: `git clone https://github.com/seu-usuario/seu-projeto.git`
